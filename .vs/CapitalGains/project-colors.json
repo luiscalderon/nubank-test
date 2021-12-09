@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "518a9c9d-6a8b-431c-b827-d4eb142b9958": {
+      "ProjectGuid": "518a9c9d-6a8b-431c-b827-d4eb142b9958",
+      "DisplayName": "CapitalGains.Application",
+      "ColorIndex": 0
+    },
+    "1a775e56-9f18-401e-ae10-bd7fdc05c3bb": {
+      "ProjectGuid": "1a775e56-9f18-401e-ae10-bd7fdc05c3bb",
+      "DisplayName": "CapitalGains.Domain",
+      "ColorIndex": 1
+    },
+    "3665ba4d-2689-4c87-a96d-a959a85c01e4": {
+      "ProjectGuid": "3665ba4d-2689-4c87-a96d-a959a85c01e4",
+      "DisplayName": "CapitalGains.Service",
+      "ColorIndex": 2
+    },
+    "0ff7bf89-4dbb-4b35-8a59-6fa03eba93c4": {
+      "ProjectGuid": "0ff7bf89-4dbb-4b35-8a59-6fa03eba93c4",
+      "DisplayName": "CapitalGains.Prompt",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
