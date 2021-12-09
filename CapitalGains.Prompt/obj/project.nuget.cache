@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ub/lsgt3A/duGNnywlxQ/Rj2AvYO6m6pKCBHR/N5Qn2TzAxjnZFgjJZZW7cIcHi923716QwX22E1DZF3fIdCSg==",
+  "success": true,
+  "projectFilePath": "C:\\Luis\\Projetos\\Nubank\\CapitalGains\\CapitalGains.Prompt\\CapitalGains.Prompt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lafca\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

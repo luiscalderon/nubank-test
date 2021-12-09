@@ -1,0 +1,12 @@
+C:\Luis\Projetos\Nubank\CapitalGains\CapitalGains.Domain\bin\Debug\net6.0\CapitalGains.Domain.deps.json
+C:\Luis\Projetos\Nubank\CapitalGains\CapitalGains.Domain\bin\Debug\net6.0\CapitalGains.Domain.dll
+C:\Luis\Projetos\Nubank\CapitalGains\CapitalGains.Domain\bin\Debug\net6.0\ref\CapitalGains.Domain.dll
+C:\Luis\Projetos\Nubank\CapitalGains\CapitalGains.Domain\bin\Debug\net6.0\CapitalGains.Domain.pdb
+C:\Luis\Projetos\Nubank\CapitalGains\CapitalGains.Domain\obj\Debug\net6.0\CapitalGains.Domain.csproj.AssemblyReference.cache
+C:\Luis\Projetos\Nubank\CapitalGains\CapitalGains.Domain\obj\Debug\net6.0\CapitalGains.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Luis\Projetos\Nubank\CapitalGains\CapitalGains.Domain\obj\Debug\net6.0\CapitalGains.Domain.AssemblyInfoInputs.cache
+C:\Luis\Projetos\Nubank\CapitalGains\CapitalGains.Domain\obj\Debug\net6.0\CapitalGains.Domain.AssemblyInfo.cs
+C:\Luis\Projetos\Nubank\CapitalGains\CapitalGains.Domain\obj\Debug\net6.0\CapitalGains.Domain.csproj.CoreCompileInputs.cache
+C:\Luis\Projetos\Nubank\CapitalGains\CapitalGains.Domain\obj\Debug\net6.0\CapitalGains.Domain.dll
+C:\Luis\Projetos\Nubank\CapitalGains\CapitalGains.Domain\obj\Debug\net6.0\ref\CapitalGains.Domain.dll
+C:\Luis\Projetos\Nubank\CapitalGains\CapitalGains.Domain\obj\Debug\net6.0\CapitalGains.Domain.pdb
